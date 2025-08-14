@@ -1,0 +1,29 @@
+CSS Basics – Practice Task: Simple Menu
+
+Your Task:
+Create a simple restaurant menu page using HTML and CSS.
+
+Requirements:
+1. The page must have:
+   - A heading with the restaurant name (class selector).
+   - At least 3 menu item names with prices.
+   - A short description for each menu item.
+2. Use at least these CSS properties:
+   - color
+   - background-color
+   - font-size
+   - text-align
+   - text-transform
+   - margin
+   - padding
+   - border (with border-radius)
+3. The menu must be inside a styled <div>.
+
+Bonus challenge:
+- Use different colors for the headings and the descriptions.
+- Make prices bold and a different color.
+- Add a hover effect to menu items.
+
+Files you:
+- index.html (your HTML file)
+- style.css (your CSS file)

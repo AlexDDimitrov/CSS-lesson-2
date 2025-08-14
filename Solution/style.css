@@ -1,0 +1,47 @@
+body {
+  background-color: #faf3e0;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: #c0392b;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.menu {
+  background-color: white;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 400px;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+.menu_title {
+  text-align: center;
+  color: #555;
+}
+
+.item {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+
+.price {
+  color: #27ae60;
+  font-weight: bold;
+}
+
+.item h3 {
+  margin: 0;
+}
+
+.item p {
+  font-size: 14px;
+  color: #666;
+}
+

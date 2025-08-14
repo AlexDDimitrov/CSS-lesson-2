@@ -24,6 +24,6 @@ Bonus challenge:
 - Make prices bold and a different color.
 - Add a hover effect to menu items.
 
-Files you:
+Files you need:
 - index.html (your HTML file)
 - style.css (your CSS file)
